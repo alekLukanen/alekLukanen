@@ -14,4 +14,4 @@ Here are a few repos I'm particularly proud of (some are also pinned):
 - **ChapterhouseDB**: A data streaming warehouse written in Go 
 - **arrow-ops**: Arrow utilities in Go
 - **errs**: Error stack trace & formatting package in Go
-- **Go + HTMX example app**: Small UI template example
+- **go-templ-htmx-example-app**: Small UI template example
