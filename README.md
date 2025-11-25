@@ -10,8 +10,8 @@ A backend-focused software engineer passionate about building high-performance, 
 
 Here are a few repos I'm particularly proud of (some are also pinned):
 
-- **ChapterhouseQE**: A distributed SQL query engine written in Rust
-- **ChapterhouseDB**: A data streaming warehouse written in Go 
+- **ChapterhouseDB**: A distributed SQL query engine written in Rust
+- **ChapterhouseDB-v1**: A data streaming warehouse written in Go 
 - **arrow-ops**: Arrow utilities in Go
 - **errs**: Error stack trace & formatting package in Go
 - **go-templ-htmx-example-app**: Small UI template example
