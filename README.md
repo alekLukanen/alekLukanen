@@ -15,4 +15,3 @@ Here are a few repos I'm particularly proud of (some are also pinned):
 - **arrow-ops**: Arrow utilities in Go
 - **errs**: Error stack trace & formatting package in Go
 - **Go + HTMX example app**: Small UI template example
-- **Sentinel-2 Mapping Service**: A service for handling satellite data
