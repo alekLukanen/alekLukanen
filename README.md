@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I’m Alek Lukanen 👋
 
-<!--
-**alekLukanen/alekLukanen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A backend-focused software engineer passionate about building high-performance, scalable systems. I enjoy building database systems primarily in **Go** and **Rust**.
 
-Here are some ideas to get you started:
+## 🔭 What I'm Working On Now
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Javelin** — An LSM-tree based key-value store
+
+## ⭐ Notable Projects
+
+Here are a few repos I'm particularly proud of (some are also pinned):
+
+- **ChapterhouseQE**: A distributed SQL query engine written in Rust
+- **ChapterhouseDB**: A data streaming warehouse written in Go 
+- **arrow-ops**: Arrow utilities in Go
+- **errs**: Error stack trace & formatting package in Go
+- **Go + HTMX example app**: Small UI template example
+- **Sentinel-2 Mapping Service**: A service for handling satellite data
